@@ -1,0 +1,15 @@
+.logo{
+    margin: 2rem 2rem;
+    font-size: 1.25rem;
+    width: 9.4rem;
+    color: rgb(148, 145, 145);
+}
+
+.made{
+    margin-top: 3.25rem;
+    text-align: center;
+}
+
+.made .fa-heart-o{
+    color: red;
+}
