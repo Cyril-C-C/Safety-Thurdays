@@ -5,6 +5,12 @@
     color: rgb(148, 145, 145);
 }
 
+@media (max-width: 27rem){
+    .logo{
+        font-size: 1rem;
+    }
+}
+
 .made{
     margin-top: 3.25rem;
     text-align: center;
